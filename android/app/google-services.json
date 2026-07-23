@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "342392606656",
+    "project_id": "cartify-app-edee8",
+    "storage_bucket": "cartify-app-edee8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342392606656:android:7f5d9ed7f6a3a8eb88c225",
+        "android_client_info": {
+          "package_name": "com.example.cartify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342392606656-1phgl42eodppn9kjktqp180tqm87nn0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cartify",
+            "certificate_hash": "f0c940d5272e8282f4fda1bd50e86c36f6738ee8"
+          }
+        },
+        {
+          "client_id": "342392606656-huinnh27rkpuc5hb47rsbsuuo57tts3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuo0fQMq3gwMGwBhEx04QTs2YNe8nI-2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342392606656-huinnh27rkpuc5hb47rsbsuuo57tts3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Fresh Light Green Background -->
+    <item android:drawable="#A5D6A7"/>
+
+    <!-- Center Transparent Logo -->
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/transparent_icon"/>
+    </item>
+
+</layer-list>
